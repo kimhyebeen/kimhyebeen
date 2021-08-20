@@ -1,5 +1,5 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimhyebeen&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhyebeen)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhyebeen)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<br><br>
-👉 [Hyebeen's Portfolio (Click)](https://k-hb.notion.site/Kim-Hyebeen-d362b020993e4b27af582f028914092e)
