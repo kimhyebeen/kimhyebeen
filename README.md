@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 <br><br>
->> [Résumé](https://k-hb.notion.site/Kim-Hyebeen-d362b020993e4b27af582f028914092e)
+-> [Résumé](https://k-hb.notion.site/Kim-Hyebeen-d362b020993e4b27af582f028914092e)
